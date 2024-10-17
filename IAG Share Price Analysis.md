@@ -3,6 +3,7 @@
 The following chart illustrates the fluctuations in relative stock prices for several major airlines in Europe from 2015 to 2023. The performance of **British Airways (IAG)**, represented by the green line, shows a steady decline during this period, which may be linked to significant management changes.
 
 ![圖片1](https://github.com/user-attachments/assets/ccdced20-43d9-49b9-9728-862cb9929e0e)
+
 *Figure 2: Comparison of airline stock prices from 2015 to 2023*
 
 ### Analysis
