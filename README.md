@@ -39,17 +39,6 @@ This project is divided into several tasks, which are completed using **Python**
 - **matplotlib**: For creating visualizations such as time series plots.
 - **Jupyter Notebook**: Used for developing and testing the code interactively.
 
-## How to Run the Project
-
-1. Install the required libraries if you haven't already:
-   ```bash
-   pip install pandas matplotlib
-   ```
-
-2. Open the Jupyter Notebook file (`shares_hgwc71.ipynb`) and execute the cells step by step to import the data, combine it, clean it, and create the visualizations.
-
-3. You can also modify the file paths or replace the airline datasets with other company stock data to reuse the analysis pipeline for different data.
-
 ## Future Improvements
 
 - Implement **interactive visualizations** using libraries like `plotly` to allow users to zoom in and out of specific periods.
